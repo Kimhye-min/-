@@ -14,7 +14,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #242424;
+	color: #ffffff;
 	font-weight: 700;
 }
 
@@ -46,7 +46,7 @@ h6 {
 
 p {
 	font-size: 13px;
-	color: #242424;
+	color: #fffefe;
 	line-height: 2;
 }
 
@@ -118,7 +118,7 @@ ol {
 	min-width: 167px;
 	padding: 19px 35px;
 	text-transform: uppercase;
-	color: #242424;
+	color: #838181;
 	line-height: 1;
 	cursor: pointer;
 	text-align: center;
@@ -127,7 +127,7 @@ ol {
 }
 
 .site-btn:hover {
-	color: #242424;
+	color: #ffffff;
 }
 
 .site-btn img {
@@ -145,7 +145,7 @@ ol {
 }
 
 .site-btn.sb-dark {
-	border-color: #242424;
+	border-color: #7a7a7a;
 }
 
 
@@ -181,7 +181,7 @@ ol {
 .site-logo p {
 	font-size: 12px;
 	text-transform: uppercase;
-	color: #aaaaaa;
+	color: #d6d6c3;
 	letter-spacing: 12px;
 	padding-left: 10px;
 	margin-bottom: 0;
@@ -201,7 +201,7 @@ ol {
 
 .contact-info {
 	list-style: none;
-	margin-bottom: 65px;
+	margin-bottom: 50px;
 	position: relative;
 }
 
@@ -222,24 +222,24 @@ ol {
 }
 
 .contact-info li a {
-	color: #242424;
+	color: #797878;
 }
 
 .copyright {
 	font-size: 13px;
-	color: rgba(130, 130, 130, 0.29);
+	color: rgba(202, 199, 199, 0.29);
 	position: fixed;
 	height: 80px;
 	width: 614px;
 	left: 0;
 	bottom: 0;
-	background: #fff;
+	background: rgb(53, 30, 83);
 	padding-left: 145px;
 	padding-top: 20px;
 }
 
 .copyright a {
-	color: rgba(130, 130, 130, 0.29);
+	color: rgba(192, 192, 192, 0.29);
 	text-decoration: underline;
 }
 
